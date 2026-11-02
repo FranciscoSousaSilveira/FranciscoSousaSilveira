@@ -2,7 +2,7 @@
 
 I'm an MSc Mechatronics student at **Technical University of Munich (TUM)**, interested in building practical systems that connect software with the real world.
 
-I learn by building — especially tools, automations and AI-powered workflows that solve problems I personally care about.
+I learn by building, especially tools, automations and AI-powered workflows that solve problems I personally care about.
 
 Currently exploring:
 
